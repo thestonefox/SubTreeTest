@@ -1,3 +1,3 @@
 # Contributing
 
-Some blurb here
+Some blurb here updated
